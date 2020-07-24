@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working with Infosys
 - 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with cool App Ideas
 - 💬 Ask me about Flutter, Spring Boot/REST & Angular
 - 📫 How to reach me: sahebsingh@hotmail.com
 
