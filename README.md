@@ -1,8 +1,8 @@
 <div class="bg-gray-dark">
   ### Hi there 👋
 
-- 🔭 I’m currently working with Infosys
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working with Publicis Sapient
+- 🌱 I’m currently learning PHP
 - 🤔 I’m looking for help with cool App Ideas
 - 💬 Ask me about Flutter, Spring Boot/REST & Angular
 - 📫 How to reach me: sahebsingh@hotmail.com
